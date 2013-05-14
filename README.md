@@ -8,6 +8,9 @@ meant as an example on how to use Vagrant and get started quickly.
 After figuring out how awesome Vagrant is. I noticed it makes testing services 
 and new configurations a breeze. This setup was used to try a Memcached service.
 
+For the ones just getting started, read the "Getting started" section from
+the Vagrant Docs first: http://docs.vagrantup.com/v2/getting-started/index.html
+
 I. Webserver
 ------------
 
