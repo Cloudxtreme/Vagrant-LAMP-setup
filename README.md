@@ -30,11 +30,11 @@ sample data. This will give you some data to try the setup with.
 
 The data is automically imported, so all you have to do is just query it.
 
-The credentials are:
-Server => 192.168.5.2
-User => vagrant_web
-Password => connect
-Databasename => vagrant_db
+You can use the server with the credentials below.
+- Server => 192.168.5.2
+- User => vagrant_web
+- Password => connect
+- Databasename => vagrant_db
 
 III. Media server
 -----------------
