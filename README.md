@@ -6,7 +6,7 @@ used, one as a webserver, a MySQL-server and a media-server. The files are mostl
 meant as an example on how to use Vagrant and get started quickly.
 
 I. Webserver
-============
+------------
 
 The webserver is prepared to run Apache with PHP. It'll automatically install a
 VirtualHost and enable it. For the heck of it, Memcached is also installed on the
@@ -22,7 +22,7 @@ The other classes can be ignored for now, since they were early attempts
 of abstraction.
 
 II. MySQL server
-================
+----------------
 
 This is a simple MySQL server which will accept incoming requests from
 the webserver. At the moment I've used a data-generator to create some
@@ -37,7 +37,7 @@ Password => connect
 Databasename => vagrant_db
 
 III. Media server
-=================
+-----------------
 
 This one just installs nginx. Setup as you want. 
 
