@@ -5,6 +5,9 @@ This is a simple server setup in Vagrant. At the moment there are three servers
 used, one as a webserver, a MySQL-server and a media-server. The files are mostly
 meant as an example on how to use Vagrant and get started quickly.
 
+After figuring out how awesome Vagrant is. I noticed it makes testing services 
+and new configurations a breeze. This setup was used to try a Memcached service.
+
 I. Webserver
 ------------
 
